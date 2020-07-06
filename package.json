@@ -1,0 +1,19 @@
+{
+  "name": "muniverse",
+  "version": "1.0.0",
+  "description": "Free platform for musicians",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasyLim/MUniverse.git"
+  },
+  "author": "EasyLim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EasyLim/MUniverse/issues"
+  },
+  "homepage": "https://github.com/EasyLim/MUniverse#readme"
+}
